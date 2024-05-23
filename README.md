@@ -12,17 +12,16 @@
 
 ## Contexts
 
-- Base Colour
-    - hex colour of new theme
-- Localstorage manager for list of CSS themes
-    - Array of theme lists
-- Localstorate manager for current CSS theme
-    - One Theme List
-- List of CSS themes
-    - Array of Theme lists
-- Current CSS theme
-    - One Theme List
 
+
+- Current CSS theme
+    - one theme list
+    - local storate
+- List of CSS themes
+    - array of theme list
+    - local storage
+- Base colour
+    - hex colour of new theme
 ## Data
 
 ### Colour Object
